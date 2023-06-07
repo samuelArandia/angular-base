@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Recursos utilizados para desplieguen en github 
+  Copiador de files con comandos: https://www.npmjs.com/package/copyfiles
+  Borrador de diles con comandos: https://www.npmjs.com/package/del-cli
+  Creador de id aletorios: https://www.npmjs.com/package/uuid 
