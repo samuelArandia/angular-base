@@ -28,6 +28,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 ## Recursos utilizados para desplieguen en github 
-  Copiador de files con comandos: https://www.npmjs.com/package/copyfiles
-  Borrador de diles con comandos: https://www.npmjs.com/package/del-cli
-  Creador de id aletorios: https://www.npmjs.com/package/uuid 
+  <p>Copiador de files con comandos: </p> <a href="https://www.npmjs.com/package/copyfiles">Enlace</a>
+  <p>Borrador de diles con comandos:</p> <a href=" https://www.npmjs.com/package/del-cli">Enlace</a>
+  <p>Creador de id aletorios:</p> <a href=" https://www.npmjs.com/package/uuid">Enlace</a>
